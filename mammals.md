@@ -1,0 +1,4 @@
+"bears"
+"foxes"
+"wolves"
+"daddies"
